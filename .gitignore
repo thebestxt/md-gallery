@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+gallery-root
+thumbs
+.wrangler
+dist
+.env
+pnpm-lock.yaml

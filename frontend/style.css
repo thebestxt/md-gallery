@@ -1,0 +1,18 @@
+body, html {
+    margin: 0;
+}
+/* 注册 Kalam 字体 */
+@font-face {
+  font-family: 'LXGWWenKaiTC';
+  src: url('./LXGWWenKaiTC-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  /* 字体显示策略，确保加载时不会有明显的闪烁 */
+  font-display: swap;
+}
+
+
+/* 全局应用 */
+:root {
+  --font-main: 'LXGWWenKaiTC', cursive, system-ui, -apple-system, sans-serif;
+}
