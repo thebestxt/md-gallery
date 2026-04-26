@@ -7,7 +7,6 @@
     "dev": "vite --port 3000",
     "build": "vite build",
     "preview": "vite preview",
-    "sync-fill": "node scripts/syncFile.js && node scripts/generatePreview.js && node scripts/generateStructure.js",
     "sync-file-full": "node ./scripts/fullSyncFile.js",
     "sync-file": "node ./scripts/syncFile.js",
     "gen-preview": "node ./scripts/syncFile.js && node ./scripts/generatePreview.js",

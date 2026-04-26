@@ -1,7 +1,10 @@
 .DS_Store
 node_modules
-gallery-root
-thumbs
+gallery-root/*
+!gallery-root/.gitkeep
+!gallery-root/md-icon.png
+thumbs/*
+!thumbs/.gitkeep
 .wrangler
 dist
 .env
