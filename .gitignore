@@ -2,7 +2,7 @@
 node_modules
 gallery-root/*
 !gallery-root/.gitkeep
-!gallery-root/md-icon.png
+!gallery-root/example
 thumbs/*
 !thumbs/.gitkeep
 .wrangler
