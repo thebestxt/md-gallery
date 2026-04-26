@@ -93,7 +93,3 @@ Uses `wrangler` to build the frontend and deploy the static assets to Cloudflare
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-
----
-
-Should I add a "Troubleshooting" section specifically for the Cloudflare CORS settings we discussed?
