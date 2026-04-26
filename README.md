@@ -1,8 +1,8 @@
 # MD-gallery
 
-[简体中文] | [English](./documents/README_en.md)
+[简体中文] | [English](./README_en.md)
 
-![](./gallery-root/md-icon.png)
+![](./gallery-root/example/md-icon.png)
 
 MD Gallery 是一个依靠于 Cloudflare R2 和 Cloudflare Pages 的影集 SSG 工具，你只需要在本地组织影集结构，MD Gallery 的脚本可以自动处理原图上传、缩略图生成、相册目录结构生成、前端页面生成。
 

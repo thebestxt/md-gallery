@@ -2,7 +2,7 @@
 
 [English] | [简体中文](./README.md)
 
-![](./gallery-root/md-icon.png)
+![](./gallery-root/example/md-icon.png)
 
 **MD-Gallery** is a lightweight, high-performance Static Site Generation (SSG) tool for photo galleries, powered by **Cloudflare R2** and **Cloudflare Pages**. It automates the entire workflow—from organizing local files and uploading original images to generating thumbnails, extracting EXIF data, and deploying the frontend.
 
